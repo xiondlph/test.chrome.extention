@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Test Chrome Extention for Mail.Ru Groupe task",
+  "version": "2",
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "history",
+    "tabs"
+  ]
+}
