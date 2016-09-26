@@ -10,7 +10,7 @@ import './main.less';
 class Container extends React.Component {
     render() {
         return <div className="container">
-            <h1 className="extention-title">Тестовое расширение для задания от Mail.Ru Groupee</h1>
+            <h1 className="extention-title">Тестовое расширение для задания от Mail.Ru Groupe</h1>
             <SearchForm/>
             <LastVisited/>
             <FooterLinks/>
